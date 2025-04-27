@@ -1,13 +1,3 @@
-1 - Semantico: Nao
-2 - Box Model, Especificidade, SaaS: Nao
-3 - Map, Filter, Reduce: OK
-4 - Framework, Vue, React, Angular: OK
-5 - Composition API: Nao
-6 - TESTE: Nao
-7 - Composable: Nao
-8 - Git: Nao
-9 - Acessibilidade: Nao
-11 - IA - Qual ferramenta de ia vc usa? Como isso tem te ajudado?
 
 # PERGUNTAS DA ENTREVISTA (FRONTEND JUNIOR)
 
